@@ -1,0 +1,9 @@
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.exe
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.pdb
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Release\WindowsApplication2.xml
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.Form1.resources
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.Resources.resources
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.exe
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.xml
+C:\Users\mroff\OneDrive\ドキュメント\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Release\WindowsApplication2.pdb
